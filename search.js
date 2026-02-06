@@ -1,5 +1,4 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAH0OeZSFTXdeaGRty8gu-hPhYpn_1oLAw",
   authDomain: "communityexchange-hkv3224.firebaseapp.com",
   projectId: "communityexchange-hkv3224",
   storageBucket: "communityexchange-hkv3224.appspot.com",
