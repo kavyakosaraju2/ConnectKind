@@ -5,7 +5,7 @@ The backend is implemented using Firebase services including Authentication, Fir
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.jpg)
 
 ## Components
 
